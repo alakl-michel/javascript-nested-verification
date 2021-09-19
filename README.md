@@ -1,5 +1,5 @@
-# JavaScript-nested-verification
-JavaScript nested verification challenge
+# JavaScript-nested-verification challenge
+JavaScript nested verification 
 
   
 Implement‌ ‌function‌ ‌verify(text)‌ ‌which‌ ‌verifies‌ ‌whether‌ ‌parentheses‌ ‌within‌ ‌text‌ ‌are‌ ‌
